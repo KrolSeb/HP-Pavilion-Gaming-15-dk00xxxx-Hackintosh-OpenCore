@@ -1,0 +1,1 @@
+# KrolSeb-HP-Pavilion-Gaming-15-dk00xxxx-Hackintosh-OpenCore
