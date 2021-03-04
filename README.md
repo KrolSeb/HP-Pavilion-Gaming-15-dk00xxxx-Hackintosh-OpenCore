@@ -82,6 +82,15 @@ If you think that configuration is useful for you, consider to give a star for t
 
 </details>
 
+<details>
+<summary>
+    <strong>Neofetch screenshot</strong>
+</summary>
+
+<img src="./extras/images/neofetch/neofetch.jpg" alt="Neofetch screenshot" width="100%"/>
+
+</details>
+
 ## Recommended UEFI/BIOS settings
 
 <details>  
